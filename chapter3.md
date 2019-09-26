@@ -9,7 +9,7 @@
 
 <br>
 
->**<font color=#1E90FF>@DVC5_PassEq: </font> 将自定义策略的绩效进行多空拆解，多空个别评价，<font color=##32CD32>于PT上使用。</font>**
+>**<font color=#1E90FF>@DVC5_PassEq: </font> 将自定义策略的绩效进行多空拆解，多空个别评价，<font color=##32CD32>于PT上使用。</font>** 
 
 <br>
 
