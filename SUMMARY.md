@@ -1,8 +1,8 @@
 # 目录
 
 * [壹、快速架构导览](chapter1.md)
-    * [一、MC回测模版](chapter1.md)
-    * [二、MC 与 评价大师 实盘模板](chapter1.md)
+    * [一、MC回测模版](chapter1.md#一、mc回测模版)
+    * [二、MC 与 评价大师 实盘模板](chapter1.md#二、MC 与 评价大师 实盘模板)
 
 
 
