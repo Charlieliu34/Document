@@ -5,6 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "timeout": 60000,
             "type": "node",
             "request": "launch",
             "name": "產生gitbook",
