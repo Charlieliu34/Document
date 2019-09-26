@@ -3,8 +3,8 @@
 
  >**<font color=#1E90FF>@DVC5_PassEq_Chart:</font>  <font color=#32CD32>将自定义策略的绩效进行多空拆解，多空个别评价，于圖表上使用。</font>**
  
-1. <font color=#FF0000>Strategy:  
- </font> <font color=#32CD32>该商品之策略编号，从数字1起依序向上编号。不同商品皆须从1开始编号，不可混合接续编号。</font>
+1. <font color=#FF0000>Strategy:  </font> 
+    <font color=#32CD32>该商品之策略编号，从数字1起依序向上编号。不同商品皆须从1开始编号，不可混合接续编号。</font>
 
 <br>
 
