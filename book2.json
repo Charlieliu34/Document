@@ -1,0 +1,40 @@
+{
+    "output": null,
+    "generator": "site",
+    "title": "標題",
+    "description": null,
+    "isbn": "aa",
+    "extension": null,
+    "plugins": [],
+    "pluginsConfig": {
+    },
+    "styles": {
+        "website": "style/website.css"
+    },
+    "variables": {},
+    "links": {
+        "sidebar": {
+            "Custom link name": "https://customlink.com"
+        },
+        "sharing": {
+            "google": null,
+            "facebook": null,
+            "twitter": null,
+            "weibo": null,
+            "all": null
+        }
+    },
+    "pdf": {
+        "pageNumbers": false,
+        "fontSize": 12,
+        "paperSize": "a4",
+        "margin": {
+            "right": 62,
+            "left": 62,
+            "top": 36,
+            "bottom": 36
+        },
+        "headerTemplate": null,
+        "footerTemplate": null
+    }
+}
