@@ -3,7 +3,7 @@
 
  >**<font color=#1E90FF>@DVC5_PassEq_Chart:</font>  <font color=#32CD32>将自定义策略的绩效进行多空拆解，多空个别评价，于圖表上使用。</font>**
  
-1. <font color=#FF0000>Strategy:
+1. <font color=#FF0000>Strategy:  
  </font> <font color=#32CD32>该商品之策略编号，从数字1起依序向上编号。不同商品皆须从1开始编号，不可混合接续编号。</font>
 
 <br>
@@ -24,8 +24,8 @@
 <br>
 
 >**<font color=#1E90FF>@DVC7_Set:  </font>计算评分函数&风险平价手数信号。**
- 1.	<font color=#FF0000>Lookbackdays:</font> 
-    
+
+1.	<font color=#FF0000>Lookbackdays:</font> 
     动能观察天期，选择区间大小影响股价变化对给分的敏感程度，选择越小的观察区间，股价短时间的 变动对动能给分影响越大。
    
 2.	<font color=#FF0000>NegLeverage:</font>
@@ -62,7 +62,7 @@
 
     <br>
     
- > **<font color=#1E90FF>@DVC7_Order: </font> 策略评分整合&下单信号。**
+> **<font color=#1E90FF>@DVC7_Order: </font> 策略评分整合&下单信号。**
 
 
 1.  <font color=#FF0000>pCapital:  </font>
@@ -159,7 +159,7 @@
 >**<font color=#1E90FF>AutoLeverage:</font>  自动调整杠杆与可用资金缩放。**
 
 1.  <font color=#FF0000>Len:</font> 
-    
+ 
     模拟资金曲线之观察天期，比如可用于计算权益曲线之波动率、布林通道等。
 
 2.  <font color=#FF0000>mainleverage:</font> 
@@ -176,7 +176,7 @@
  >**<font color=#1E90FF>@DVC7_ToDaVinci: </font>评分函数及风险平价口数信号，<font color=##32CD32>挂载于图表或PT皆可使用。</font>**
 
 1.  <font color=#FF0000>Lookbackdays:</font> 
-        动能观察天期，选择区间大小影响股价变化对给分的敏感程度，选择越小的观察区间，股价短时间的变动对动能给分影响越大。
+    动能观察天期，选择区间大小影响股价变化对给分的敏感程度，选择越小的观察区间，股价短时间的变动对动能给分影响越大。
 
 2.  <font color=#FF0000>NegLeverage:</font>
     
