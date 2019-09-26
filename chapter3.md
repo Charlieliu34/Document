@@ -2,11 +2,9 @@
 ## 一、MC 回测模板
 
  >**<font color=#1E90FF>@DVC5_PassEq_Chart:</font>  <font color=#32CD32>将自定义策略的绩效进行多空拆解，多空个别评价，于圖表上使用。</font>**
-
-
-1. <font color=#FF0000>Strategy: </font>
-    
-    <font color=#32CD32>该商品之策略编号，从数字1起依序向上编号。不同商品皆须从1开始编号，不可混合接续编号。</font>
+ 
+1. <font color=#FF0000>Strategy:
+ </font> <font color=#32CD32>该商品之策略编号，从数字1起依序向上编号。不同商品皆须从1开始编号，不可混合接续编号。</font>
 
 <br>
 
@@ -17,17 +15,15 @@
 >**<font color=#1E90FF>@DVC5_OriginalMM: </font> 輸出原始策略組合之績效。**
 
 1.  <font color=#FF0000>CapitalName: </font>
-
     原始策略组合之权益曲线名称，命名规则为"UD.MCQuote.xxx"，其中xxx为自定义字串。
 
- 2. <font color=#FF0000> RealCapital:</font> 
+2. <font color=#FF0000> RealCapital:</font> 
         
     实际交易使用的资金基底。
 
 <br>
 
 >**<font color=#1E90FF>@DVC7_Set:  </font>计算评分函数&风险平价手数信号。**
- 
  1.	<font color=#FF0000>Lookbackdays:</font> 
     
     动能观察天期，选择区间大小影响股价变化对给分的敏感程度，选择越小的观察区间，股价短时间的 变动对动能给分影响越大。
@@ -97,7 +93,8 @@
 
 > **<font color=#1E90FF>@DVC7_XeusMM: </font> 商品管理信号。**
 
- 1.  <font color=#FF0000>CommodityTotalN:</font> 
+ 
+1.  <font color=#FF0000>CommodityTotalN:</font> 
     
     开放交易之商品总数上限，如设定15，代表整个投资组合至多交易15个商品。
 
@@ -178,8 +175,7 @@
 ## 二、MC 与 评价大师 实盘模板
  >**<font color=#1E90FF>@DVC7_ToDaVinci: </font>评分函数及风险平价口数信号，<font color=##32CD32>挂载于图表或PT皆可使用。</font>**
 
- 1.  <font color=#FF0000>Lookbackdays:</font> 
-    
+1.  <font color=#FF0000>Lookbackdays:</font> 
         动能观察天期，选择区间大小影响股价变化对给分的敏感程度，选择越小的观察区间，股价短时间的变动对动能给分影响越大。
 
 2.  <font color=#FF0000>NegLeverage:</font>
