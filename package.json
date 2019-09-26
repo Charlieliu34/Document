@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "gitbook build . ./docs && echo \"Export gitbook to docs\" && git add . && git commit -m \"update\" && echo \"Commit success.\" && echo \"Success.\""
+    "build": "gitbook build . ./docs && echo \"Export gitbook to docs\" && git add . && git commit -m \"update\" && echo \"Commit success.\" && git push -u github master && echo \"Push success.\""
   },
   "author": "",
   "license": "ISC"
