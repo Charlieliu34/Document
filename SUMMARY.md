@@ -1,6 +1,6 @@
 # Table of contents
 
-* [LANG](README.md)
+* [简体/繁體](README.md)
 
 ## 简体中文版
 
