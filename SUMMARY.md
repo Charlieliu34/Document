@@ -17,6 +17,6 @@
   * [壹、快速架構導覽](fan-ti-zhong-wen-ban/fan-ti-zhong-wen-ban/untitled.md)
   * [貳、動能評價投資法介紹](fan-ti-zhong-wen-ban/fan-ti-zhong-wen-ban/er-dong-neng-ping-jia-tou-zi-fa-jie-shao.md)
   * [叁、信號參數定義](fan-ti-zhong-wen-ban/fan-ti-zhong-wen-ban/san-xin-hao-can-shu-ding-yi.md)
-  * [伍、常見問題Q&A](fan-ti-zhong-wen-ban/fan-ti-zhong-wen-ban/wu-chang-jian-wen-ti-qa.md)
   * [肆、完整操作流程](fan-ti-zhong-wen-ban/fan-ti-zhong-wen-ban/si-wan-zheng-cao-zuo-liu-cheng.md)
+  * [伍、常見問題Q&A](fan-ti-zhong-wen-ban/fan-ti-zhong-wen-ban/wu-chang-jian-wen-ti-qa.md)
 
